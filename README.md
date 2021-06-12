@@ -2,15 +2,15 @@
 
 ### Overview
 
-- Assistant professor of English and Digital Humanities at Ashoka University, New Delhi. 
+- Assistant Professor of English and Digital Humanities at [Ashoka University](ashoka.edu.in), New Delhi. 
 - Associate Director [*Digital Yoknapatawpha*](http://faulkner.iath.virginia.edu/)
 - I work on fuzzy data visualization and literary cartography
-- I make maps of places that never were, in ways that have not been done before
+- I make maps of places that never were in ways that have not yet been 
   - some people like them
 
 ### Skills
 - I write minimally functional code to help me answer questions in the humanities
-- I say I work in <img src="images/html5.svg" alt="html5" height="24px"/>, <img src="images/css3.svg" alt="css3" height="24px"/>, <img src="images/javascript.svg" alt="javascript" height="24px"/>, <img src="images/r.svg" alt="r" height="24px"/>, and <img src="images/qgis.svg" alt="qgis" height="24px"/>
+- I say I work in <img src="images/html5.svg" alt="html5" height="20px"/>, <img src="images/css3.svg" alt="css3" height="20px"/>, <img src="images/javascript.svg" alt="javascript" height="20px"/>, <img src="images/r.svg" alt="r" height="20px"/>, and <img src="images/qgis.svg" alt="qgis" height="20px"/>
 - Really, I use :thread: and 📎s to hold everything together
 - Also, <img src="images/excel_logo_2.jpg" alt="r" height="20px"/>
 
