@@ -12,7 +12,7 @@
 - I write minimally functional code to help me answer questions in the humanities
 - I say I work in <img src="images/html5.svg" alt="html5" height="24px"/>, <img src="images/css3.svg" alt="css3" height="24px"/>, <img src="images/javascript.svg" alt="javascript" height="24px"/>, <img src="images/r.svg" alt="r" height="24px"/>, and <img src="images/qgis.svg" alt="qgis" height="24px"/>
 - Really, I use :thread: and 📎s to hold everything together
-- Also, <img src="images/excel_logo.jpg" alt="r" height="36px"/>
+- Also, <img src="images/excel_logo_2.jpg" alt="r" height="20px"/>
 
 ### Recent-ish Work
 
@@ -21,6 +21,20 @@
 [Race and Place: Mapping the Demography of Faulkner's Fictions](http://faulkner.iath.virginia.edu/racial_demography/) - Interactive commentary that shows the distribution of racial groups in Yoknapatawpha County
 
 [Using Digital Yoknapatawpha to Explore the Many Readings of "A Rose for Emily"](https://faulkner.drupal.shanti.virginia.edu/content/burgersrevideos) - Complete lesson plan for teaching "A Rose for Emily" using the Digital Yoknapatawpha site
+
+### Project Related Publications
+
+[“Familial Places in Jim Crow Spaces: Kinship, Demography, and the Color Line in William Faulkner’s 
+Yoknapatawpha County.”](https://culturalanalytics.org/article/14112-familial-places-in-jim-crow-spaces-kinship-demography-and-the-color-line-in-william-faulkner-s-yoknapatawpha-county) *Journal of Cultural Analytics*, 07-22 2020. https://doi.org/10.22148/001c.14112.
+
+[“Using the Digital Yoknapatawpha Database for Research.”](https://www.jstor.org/stable/26468044) *Mississippi Quarterly*, vol. 68, no. 3-4, 2015, pp. 466-469.
+
+### Contact
+
+:mailbox: [johannes.burgers@ashoka.edu.in](johannes.burgers@ashoka.edu.in) 
+
+
+
 
 
 
