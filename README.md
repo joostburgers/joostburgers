@@ -34,4 +34,4 @@ Yoknapatawpha County.”](https://culturalanalytics.org/article/14112-familial-p
 <img src="images/gmail.svg" alt="gmail" height="12px"/>&nbsp;&nbsp;&nbsp; [johannes.burgers@ashoka.edu.in](johannes.burgers@ashoka.edu.in)  
 <img src="images/linkedin.svg" alt="gmail" height="16px"/>&nbsp;&nbsp;&nbsp; [Johannes Burgers](https://www.linkedin.com/in/johannes-burgers-1356b1a1/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joostburgers)](https://github.com/joostburgers/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joostburgers)](https://github.com/joostburgers/github-readme-stats)-->
