@@ -10,7 +10,7 @@
 
 ### Skills
 - I write minimally functional code to help me answer questions in the humanities
-- I say I work in `JS`, `R`, `CSS`, `HTML`, and `QGIS`
+- I say I work in <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="24px"/> </a> `JS`, `R`, `CSS`, `HTML`, and `QGIS`
 - Really, I use :thread: and 📎s to hold everything together
 
 ### Recent-ish Work
