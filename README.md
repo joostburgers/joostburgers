@@ -31,7 +31,8 @@ Yoknapatawpha County.”](https://culturalanalytics.org/article/14112-familial-p
 
 ### Contact
 
-:mailbox: [johannes.burgers@ashoka.edu.in](johannes.burgers@ashoka.edu.in) 
+<img src="images/gmail.svg" alt="gmail" height="12px"/>&nbsp;&nbsp;&nbsp; [johannes.burgers@ashoka.edu.in](johannes.burgers@ashoka.edu.in)  
+<img src="images/linkedin.svg" alt="gmail" height="16px"/>&nbsp;&nbsp;&nbsp; [Johannes Burgers](https://www.linkedin.com/in/johannes-burgers-1356b1a1/)
 
 
 
