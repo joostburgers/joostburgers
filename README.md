@@ -1,4 +1,4 @@
-## Hey , I'm Joost Burgers
+## Hey :wave:, I'm Joost Burgers
 
 ### Overview
 
