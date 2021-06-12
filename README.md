@@ -33,17 +33,3 @@ Yoknapatawpha County.”](https://culturalanalytics.org/article/14112-familial-p
 
 <img src="images/gmail.svg" alt="gmail" height="12px"/>&nbsp;&nbsp;&nbsp; [johannes.burgers@ashoka.edu.in](johannes.burgers@ashoka.edu.in)  
 <img src="images/linkedin.svg" alt="gmail" height="16px"/>&nbsp;&nbsp;&nbsp; [Johannes Burgers](https://www.linkedin.com/in/johannes-burgers-1356b1a1/)
-
-### Check the stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniakash&layout=compact)][github]]
-
-
-
-
-
-
-<!---
-joostburgers/joostburgers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
