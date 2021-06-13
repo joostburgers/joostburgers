@@ -11,7 +11,7 @@
 ### Skills
 - I write minimally functional code to help me answer questions in the humanities
 - I say I work in <img src="images/html5.svg" alt="html5" height="20px"/>, <img src="images/css3.svg" alt="css3" height="20px"/>, <img src="images/javascript.svg" alt="javascript" height="20px"/>, <img src="images/r.svg" alt="r" height="20px"/>, and <img src="images/qgis.svg" alt="qgis" height="20px"/>
-- Really, I use :thread: and 📎s to hold everything together
+- Really, I use 🧶 and 🧷s to hold everything together
 - Also, <img src="images/excel_logo_2.jpg" alt="r" height="20px"/>
 
 ### Recent-ish Work
