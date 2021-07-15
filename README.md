@@ -23,6 +23,7 @@
 [Using Digital Yoknapatawpha to Explore the Many Readings of "A Rose for Emily"](https://faulkner.drupal.shanti.virginia.edu/content/burgersrevideos) - Complete lesson plan for teaching "A Rose for Emily" using the Digital Yoknapatawpha site
 
 ### Project Related Publications
+["Imagining the Continuously Present Past: Visualizing William Faulkner’s Narratives and Digital Yoknapatawpha"](http://digitalhumanities.org/dhq/vol/15/2/000548/000548.html) *Digital Humanities Quarterly*, Vol. 15 no. 2, 2021.
 
 [“Familial Places in Jim Crow Spaces: Kinship, Demography, and the Color Line in William Faulkner’s 
 Yoknapatawpha County.”](https://culturalanalytics.org/article/14112-familial-places-in-jim-crow-spaces-kinship-demography-and-the-color-line-in-william-faulkner-s-yoknapatawpha-county) *Journal of Cultural Analytics*, 07-22 2020. https://doi.org/10.22148/001c.14112.
