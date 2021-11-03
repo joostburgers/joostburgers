@@ -23,7 +23,9 @@
 [Using Digital Yoknapatawpha to Explore the Many Readings of "A Rose for Emily"](https://faulkner.drupal.shanti.virginia.edu/content/burgersrevideos) - Complete lesson plan for teaching "A Rose for Emily" using the Digital Yoknapatawpha site
 
 ### Work in Progress
-[Faulkner: A Spatial Biography](https://joostburgers.github.io/FaulknerSpatialBiography/)
+[Faulkner: A Spatial Biography](https://joostburgers.github.io/FaulknerSpatialBiography/) A biography of William Faulkner's life told from a spatial perspective.
+
+[Partitioned Narratives: Visualizing Displacement] (https://joostburgers.github.io/thick_mapping_partition/) Project that analyzes partition narratives and the way they understand space. 
 
 ### Project Related Publications
 ["Imagining the Continuously Present Past: Visualizing William Faulkner’s Narratives and Digital Yoknapatawpha"](http://digitalhumanities.org/dhq/vol/15/2/000548/000548.html) *Digital Humanities Quarterly*, Vol. 15 no. 2, 2021.
