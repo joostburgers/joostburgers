@@ -4,7 +4,7 @@
 
 - Associate Professor of English and Digital Humanities at [James Madison University](https://www.jmu.edu) in Virginia.
 - Research Fellow at [Ashoka University](https://www.ashoka.edu.in), New Delhi, India.
-- Associate Director [*Digital Yoknapatawpha*](http://faulkner.iath.virginia.edu/)
+- Co-Director [*Digital Yoknapatawpha*](http://faulkner.iath.virginia.edu/)
 - I work on fuzzy data visualization and literary cartography
 - I make maps of places that never were in ways that have not yet been 
   - some people like them
