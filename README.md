@@ -40,7 +40,7 @@ yoknapatawpha-county) *Journal of Cultural Analytics*, 07-22 2020. https://doi.o
 
 [“Using the Digital Yoknapatawpha Database for Research.”](https://www.jstor.org/stable/26468044) *Mississippi Quarterly*, vol. 68, no. 3-4, 2015, pp. 466-469.
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
+![GitHub Logo](images/github-logo.jpg "GitHub Logo")
 
 
 ### Contact
