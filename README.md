@@ -17,7 +17,7 @@
 
 ### Recent-ish Work
 
-[Narrative Analysis Dashboard](http://faulkner.iath.virginia.edu/narrativeanalysis.html) - Dashboard that allows users to analyze the plot structure, linearity, narrative modality, and temporal frequency in Faulkner's Yoknapatawpha fictions
+[Absalom, Absalom! and the Digital Humanities: Charting Characters, Events, and Language]([http://faulkner.iath.virginia.edu/narrativeanalysis.html](https://faulkner.iath.virginia.edu/absalom_characters_events_language/) - Interactive essay that visualizes *Absalom, Absalom!* from multiple perspectives
 
 [Race and Place: Mapping the Demography of Faulkner's Fictions](http://faulkner.iath.virginia.edu/racial_demography/) - Interactive commentary that shows the distribution of racial groups in Yoknapatawpha County
 
